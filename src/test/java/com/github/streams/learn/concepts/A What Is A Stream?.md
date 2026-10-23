@@ -1,4 +1,4 @@
-# What is a Stream?
+# What is a Stream
 
 ## Basic Definition
 
